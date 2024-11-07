@@ -1,4 +1,4 @@
-# Building Projecst
+# Building Project Catalog
 
 Since leaving my job, I've been building a couple of projects. Here are the tech stacks below them. Feel free to follow my journey on [@theJasonForte](https://x.com/theJasonForte) or [Substack](https://jasonza.substack.com/)
 
@@ -12,7 +12,7 @@ Since leaving my job, I've been building a couple of projects. Here are the tech
 
 ## Attach.Jobs (a.k.a. FindDevOpsJobs.com) (Sept 2024)
 
-[FindDevOpsJobs.com](https://www.finddevopsjobs.com) is a job board developed to learn SvelteJS. I've read online that job boards are easy to build and I was looking for a reason to build something in Svelte. I'm looking to rebrand to [attach.jobs](https://www.attach.jobs) which I think is a less niche name. I've used this to try learn about SEO.
+[FindDevOpsJobs.com](https://www.finddevopsjobs.com) is a job board developed to learn SvelteJS. I've read online that job boards are easy to build and I was looking for a reason to build something in Svelte. I'm looking to rebrand to [Attach.jobs](https://www.attach.jobs) which I think is a less niche name. I've used this to try learn about SEO.
 
 - **Backend:** DynamoDB, Python, API Gateway, AWS AppRunner
 - **Frontend:** AWS AppRunner
